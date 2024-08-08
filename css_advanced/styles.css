@@ -1,0 +1,187 @@
+body{
+    font: 700 12px Source Sans Pro, sans-serif;
+    background-color: rgba(255, 255, 255, 1);
+    color: white;
+    background-image: url("https://cdn.builder.io/api/v1/image/assets/TEMP/3b130fb04ed9d9583d2a0018ee5038bfc0b3e54fa040f6502e78e90eeecc49b8?apiKey=a4bfb8cf8dd6473787b5f29be0a1abf9");
+    text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.baground{
+    background-color: white;
+}
+
+main{
+    width: 100%;
+}
+
+
+header{
+    min-width: 50%;
+    margin: 5%;
+    display: flex;
+    gap: 5%;
+    justify-content: space-between;
+}
+
+nav{
+    color: white;
+    align-self: start;
+    display: flex;
+    gap: 40px 52px;
+}
+
+.section1-div1{
+    margin: 10% 0;
+    
+}
+
+.position{
+    position: relative;
+    bottom: 90px;
+    
+}
+
+.get-schooled{
+    font: 700 120px Source Sans Pro, -apple-system, Roboto, Helvetica, sans-serif;
+}
+
+.laugh{
+    word-spacing: 6em;
+}
+
+.smiles{
+    background-color: blueviolet;
+    color: white;
+    border-radius: 100px;
+    object-position: center;
+    object-fit: contain;
+    object-position: center;
+    padding: 1% 1%;
+    margin: 2% 0;
+
+}
+
+.learn{
+    word-spacing: 0.5em;
+    font: 200 30px Source Sans Pro, -apple-system, Roboto, Helvetica, sans-serif;
+
+}
+
+.learn2{
+    display: flex;
+    justify-content: center;
+    gap: 3%;
+
+}
+
+.img-learn{
+    width: 80%;
+}
+
+.img3-learn{
+    width: 100%;
+}
+
+.section2{
+    background-color: rgba(194, 113, 255, 1);
+    position: relative;
+    top: 24px;
+    padding: 4% 9%;
+    display: flex;
+    gap: 4%;
+    justify-content: center;
+}
+
+.section2-block{
+    font: 500 20px Source Sans Pro, -apple-system, Roboto, Helvetica, sans-serif;
+    width: 50%;
+    text-align: left;
+
+}
+
+.most{
+    color: black;
+    font: 100 30px Source Sans Pro, -apple-system, Roboto, Helvetica, sans-serif;
+    padding: 4%;
+}
+
+.section3{
+    margin: 0 10%;
+    display: flex;
+    justify-content: center;
+    color: black;
+    padding: 3%;
+}
+
+.box2{
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 1);
+    box-shadow: 0px 2px 4px rgba(7, 22, 41, 0.178);
+    display: flex;
+    flex-grow: 1;
+    padding-bottom: 11px;
+    flex-direction: column;
+    width: 100%;
+}
+
+.box3{
+    width: 90%;
+    padding:0 3%;
+    text-align: left;
+}
+
+.box3-text1{
+    font: 20 15px Source Sans Pro, -apple-system, Roboto, Helvetica, sans-serif;
+    color: rgba(7, 22, 41, 0.502);
+}
+
+.box3-text2{
+    color: blueviolet;
+}
+.section5{
+    display: flex;
+    justify-content: center;
+    margin: 2%;
+}
+
+.p-section5{
+    font: 10 15px;
+    width: 60%;
+    margin-left: 20%;
+}
+
+.h1-f{
+    padding: 2%;
+    font-weight: 8;
+    font-size: 80px;
+}
+
+.section6-double{
+    display: flex;
+    gap: 20px;
+    margin: 4%;
+    justify-content: center;
+}
+.section6{
+    text-align: left;
+    width: 28%;
+}
+
+.section6 p{
+    font: 20 15px Source Sans Pro, -apple-system, Roboto, Helvetica, sans-serif;
+    color: rgba(7, 22, 41, 0.502);
+}
+
+.section7{
+    min-width: 50%;
+    margin: 0 5%;
+    display: flex;
+    gap: 5%;
+    justify-content: space-between;
+}
+.logo{
+    display: flex;
+}
